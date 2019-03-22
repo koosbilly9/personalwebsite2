@@ -1,0 +1,22 @@
+li,td,p {
+font-family: "open-sans","Helvetica Neue",Helvetica,Arial,sans-serif,sans-serif;
+color: black;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.75;
+}
+
+h {
+  font-family:"ITC Century W01 Book",Georgia,serif;
+  font-weight: 100;
+    line-height: 1.5em;
+    text-rendering: optimizeLegibility;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    color: #1C1F21;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1{font-size: 1.875rem;}
+
+h2{font-size: 1.575rem;}

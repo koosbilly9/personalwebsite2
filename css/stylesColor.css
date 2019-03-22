@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.topdiv {
+  background-color: #ebfffb;
+}
+
+.middlediv {
+  background-color: #51eaea;
+}
+
+.bottomdiv {
+  background-color: #309286;
+}
+
+div .Left {
+  background-color: #ebfffb;
+}
+
+div .Right {
+  background-color: #fffde1;
+}
